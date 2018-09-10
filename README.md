@@ -9,3 +9,14 @@ Kit O'neil https://github.com/kclarkoneil
 Swift, Objective-C, Cocoa pods (Material, Realm DB)
 
 ## Screenshot
+![Main screen](/screenshots/screenshot1.png)
+Format: ![Alt Text](url)
+
+![Import screen](/screenshots/screenshot2.png)
+Format: ![Alt Text](url)
+
+![Full text screen](/screenshots/screenshot3.png)
+Format: ![Alt Text](url)
+
+![Speed reading screen](/screenshots/screenshot4.png)
+Format: ![Alt Text](url)
