@@ -8,7 +8,7 @@ Kit O'neil https://github.com/kclarkoneil
 ## Built With
 Swift, Objective-C, Cocoa pods (Material, Realm DB)
 
-## Screenshot
+## Screenshots
 ![Main screen](/screenshots/screenshot1.png)
 Format: ![Alt Text](url)
 
