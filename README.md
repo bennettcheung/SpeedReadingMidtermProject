@@ -10,13 +10,10 @@ Swift, Objective-C, Cocoa pods (Material, Realm DB)
 
 ## Screenshots
 ![Main screen](/screenshots/screenshot1.PNG)
-Format: ![Alt Text](url)
 
 ![Import screen](/screenshots/screenshot2.PNG)
-Format: ![Alt Text](url)
 
 ![Full text screen](/screenshots/screenshot3.PNG)
-Format: ![Alt Text](url)
 
 ![Speed reading screen](/screenshots/screenshot4.PNG)
-Format: ![Alt Text](url)
+
